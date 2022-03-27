@@ -1,8 +1,7 @@
-# Hunter's Portfolil
-## License
-[![License: ](https://img.shields.io/badge/License--yellow.svg)](https://opensource.org/licenses/)
+# Hunter's Portfolio
 ## Description
 A portfolio featuring some of my recent work.
+![Screen Shot](./assets/img/ss.png)
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
